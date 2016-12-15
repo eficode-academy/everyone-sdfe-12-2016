@@ -1,7 +1,6 @@
 #Profile1
 
-##Navn
-Mark Falkenberg
+##Navn: *Mark Falkenberg*
 
 ##By
 København k
