@@ -10,4 +10,10 @@ København k
 **NOMA**   
 
 ##Sportsgren
-Deathball and puppy petting
+*Deathball
+
+![alt text](https://theinfosphere.org/images/thumb/0/0a/Deathball.png/225px-Deathball.png)
+
+*Conan O'Brian fingering
+
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
