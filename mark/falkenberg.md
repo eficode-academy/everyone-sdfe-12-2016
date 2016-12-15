@@ -10,4 +10,4 @@ København k
 **NOMA**   
 
 ##Sportsgren
-Deathball
+Deathball and puppy petting
