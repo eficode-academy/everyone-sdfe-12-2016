@@ -2,7 +2,7 @@
 Thomas
 
 ## Hjemby
-** SUndbyøster **
+** Sundby Øster **
 
 ### Spisested
 
