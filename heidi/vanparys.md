@@ -14,3 +14,6 @@ løbe :runner: :+1:
 
 ## Yndlingsfarve
 Grøn
+
+## Foretrukken IDE
+Eclipse

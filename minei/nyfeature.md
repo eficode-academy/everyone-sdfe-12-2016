@@ -1,6 +1,6 @@
 #Feature xml validering
 
-## Apache Xerces
+## Apache Xerces - hurtigts vhja SAX.
 
-## FME XMLValidator
+## FME XMLValidator - ubrugelig til store filer.
 
