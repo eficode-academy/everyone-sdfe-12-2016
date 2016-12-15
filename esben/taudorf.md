@@ -9,5 +9,5 @@ København
 ##Spisested
 Ude:+1:
 
-#Sports
-Fodbold mest vm og em
+#Sport
+Fodbold mest vm, em og cl
