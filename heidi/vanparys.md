@@ -10,4 +10,4 @@ Vanløse
 Café Phister :+1:
 
 ## Sportsgren
-løbe
+løbe :runner:
