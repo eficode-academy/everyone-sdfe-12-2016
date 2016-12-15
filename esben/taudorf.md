@@ -10,4 +10,4 @@ København
 Ude:+1:
 
 #Sport
-Fodbold mest vm, em og cl
+Fodbold mest VM, EM, CL og UEFA
