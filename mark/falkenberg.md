@@ -10,4 +10,7 @@ København k
 **NOMA**   
 
 ##Sportsgren
-Deathball and puppy petting
+*Deathball
+![alt text](https://theinfosphere.org/images/thumb/0/0a/Deathball.png/225px-Deathball.png "Logo Title Text 1")
+
+*Puppy petting
