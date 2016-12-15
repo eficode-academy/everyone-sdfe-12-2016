@@ -1,10 +1,6 @@
-#Profile1
+#Navn: Mark Falkenberg
 
-##Navn
-Mark Falkenberg
-
-##By
-København k
+#By: København k
 
 ##Sipsested
 **NOMA**   
