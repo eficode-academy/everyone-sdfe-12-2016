@@ -11,3 +11,6 @@ Café Phister :+1:
 
 ## Sportsgren
 løbe :runner: :+1:
+
+## Foretrukken IDE
+Eclipse
