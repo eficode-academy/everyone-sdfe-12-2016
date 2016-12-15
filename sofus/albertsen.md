@@ -11,4 +11,4 @@ Nha Trang
 :+1:
 
 ##Sportsgren
-Synkronsvømning i tv ellers løb
+Synkronsvømning i TV ellers løb
