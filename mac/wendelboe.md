@@ -15,4 +15,7 @@ Hmm, tja.... :-1:
 ## Favoritsportsgren
 
 Svømning :+1: og tennis
+
 Cykler til og fra arbejde, men det er ikke for sjov!
+
+30 min. motion om dagen!
