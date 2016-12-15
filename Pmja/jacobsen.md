@@ -13,6 +13,6 @@ MMMM
 
 NNNN
 
-OOOO
+OOO
 
 bbbb
