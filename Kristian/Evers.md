@@ -10,4 +10,4 @@ Vanløse
 Den Indiske Gryde
 
 ## Sportsgren
-Løb og cykling
+Løb og landevejscykling
