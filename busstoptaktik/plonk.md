@@ -2,8 +2,8 @@
 Thomas
 
 ## Hjemby
-** SUndbyøster **
+** Sundby Øster **
 
 ### Spisested
 
-*Moster Fies Grillbar* **4711 Tappernøje**
+*Moster Fies Grillbar* **4733 Tappernøje**
