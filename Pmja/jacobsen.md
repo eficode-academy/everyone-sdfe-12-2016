@@ -1,4 +1,4 @@
-# Profil
+﻿# Profil
 
 # Navn
 Per Jacobsen
@@ -11,4 +11,7 @@ Hanoi
 
 MMMM
 
-HHHH Flere konflikret :-)
+
+NNNN
+
+OOOO
