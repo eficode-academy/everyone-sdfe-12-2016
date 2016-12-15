@@ -14,6 +14,6 @@ København k
 
 ![alt text](https://theinfosphere.org/images/thumb/0/0a/Deathball.png/225px-Deathball.png)
 
-*Ginger Throwing
+*Conan O'Brian fingering
 
 ![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
