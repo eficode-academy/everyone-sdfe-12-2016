@@ -1,4 +1,4 @@
-# Profil
+﻿# Profil
 
 # Navn 
 Per Jacobsen
@@ -10,5 +10,7 @@ Per Jacobsen
 Hanoi
 
 MMMM
+
+NNNN
 
 OOOO
