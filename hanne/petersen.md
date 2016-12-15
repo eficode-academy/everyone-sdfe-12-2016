@@ -7,4 +7,4 @@ Hanne Petersen
 København
 
 ## Sport
-Nej tak
+Nej tak, kun i yderste nødstilfælde
