@@ -7,8 +7,11 @@ Sofus Albertsen
 Nørrebro_
 
 ##Spisested
-Nha Trang 
+Nha Trang
 :+1:
 
 ##Sportsgren
-Synkronsvømning i tv ellers løb
+
+*TV:* Synkronsvømning
+
+*RL:* løb
