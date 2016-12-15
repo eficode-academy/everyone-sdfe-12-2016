@@ -1,6 +1,5 @@
 #Feature xml validering
 
-## Apache Xerces
+## Apache Xerces - 72GB på 55min.
 
-## FME XMLValidator
-
+## FME XMLValidator - Bruger al RAM.
