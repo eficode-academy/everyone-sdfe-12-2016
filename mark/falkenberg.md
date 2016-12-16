@@ -3,7 +3,7 @@
 #By: København k
 
 ##Sipsested
-**NOMA**   
+NOMA   
 
 ##Sportsgren
 *Deathball
